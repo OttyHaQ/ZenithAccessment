@@ -1,0 +1,38 @@
+{
+  "continueBtn": "#continue-button",
+  "personal": "#menu-main-menu-1 > .menu-item-1162 > [href='/personal-banking/']",
+  "currentAccts": "li[class='lvl3menu-item 1640'] a",
+  "bankAccts": "#menu-main-menu-1 > li.mega.menu-item-1162.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.cg-std-menu.parent > ul > li.menu-item-1154.menu-item.menu-item-type-post_type.menu-item-object-page.cg-std-menu.hoverimg > a",
+  "individualCurrentAccts": "[id='#individual-current-account']",
+  "learnMoreBtn": "#ui-id-2 > section > div > div > div > p.p1 > span:nth-child(1) > a > span",
+  "featuresNBenefits": "#ui-id-1",
+  "feat_Benefits_1": "#ui-id-2 > section > div > div > div > ul > li:nth-child(1)",
+  "feat_Benefits_2": "#ui-id-2 > section > div > div > div > ul > li:nth-child(2)",
+  "feat_Benefits_3": "#ui-id-2 > section > div > div > div > ul > li:nth-child(3)",
+  "feat_Benefits_4": "#ui-id-2 > section > div > div > div > ul > li:nth-child(4)",
+  "feat_Benefits_5": "#ui-id-2 > section > div > div > div > ul > li:nth-child(5)",
+  "feat_Benefits_6": "#ui-id-2 > section > div > div > div > ul > li:nth-child(6)",
+  "feat_Benefits_7": "#ui-id-2 > section > div > div > div > ul > li:nth-child(7)",
+
+  "requirements": "body > div:nth-child(5) > div:nth-child(4) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > section:nth-child(2) > div:nth-child(1) > div:nth-child(1) > section:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > section:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > h4:nth-child(1) > a:nth-child(2)",
+  "requirement_1": "#ui-id-4 > section > div > div > div > ul > li:nth-child(1)",
+  "requirement_2": "#ui-id-4 > section > div > div > div > ul > li:nth-child(2)",
+  "requirement_3": "#ui-id-4 > section > div > div > div > ul > li:nth-child(3)",
+  "requirement_4": "#ui-id-4 > section > div > div > div > ul > li:nth-child(4)",
+  "requirement_5": "#ui-id-4 > section > div > div > div > ul > li:nth-child(5)",
+  "requirement_6": "#ui-id-4 > section > div > div > div > ul > li:nth-child(6)",
+  "smeBtn": "#menu-main-menu-1 > li.mega.menu-item-1210.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.cg-std-menu.parent",
+  "searchField": ".header-search-link",
+  "closeSearchField":"#header > div > div > div.header-right > div.aux-item.aux-search > nav > ul > li > a > i",
+  "personalOpts": "body > div:nth-child(5) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > nav:nth-child(1) > div:nth-child(1) > ul:nth-child(1) > li:nth-child(2) > ul:nth-child(2)",
+
+  "channels": "#ui-id-5",
+  "channel_1": "#ui-id-6 > section > div > div > div > ul > li:nth-child(1)",
+  "channel_2": "#ui-id-6 > section > div > div > div > ul > li:nth-child(2)",
+  "channel_3": "#ui-id-6 > section > div > div > div > ul > li:nth-child(3)",
+  "channel_4": "#ui-id-6 > section > div > div > div > ul > li:nth-child(4)",
+  "channel_5": "#ui-id-6 > section > div > div > div > ul > li:nth-child(5)",
+  "channel_6": "#ui-id-6 > section > div > div > div > ul > li:nth-child(6)",
+  "channel_7": "#ui-id-6 > section > div > div > div > ul > li:nth-child(7)"
+
+}
